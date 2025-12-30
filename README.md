@@ -1,4 +1,4 @@
-# Manual de Criação de Usuário OCI -- Geração do Config para Discovery da CCM
+# Manual de Criação de Usuário OCI - Geração do Config para Discovery da CCM
 
 Este repositório contém as instruções necessárias para criar o usuário, grupo, políticas e gerar o arquivo de configuração utilizado pelo time de Engenharia CCM para executar o processo de discovery na Oracle Cloud Infrastructure (OCI).
 
